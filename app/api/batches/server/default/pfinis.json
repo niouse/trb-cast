@@ -1,0 +1,50 @@
+[
+	{
+		"pfinis": "PFINIS0018064",
+		"productName": "Voûte de four à 6 refroidisseurs",
+		"studyNumber": "17-031-001",
+		"clientName": "APERAM CHATELET",
+		"factoryName": "APERAM CHATELET",
+		"netWeight": "9734"
+	},
+	{
+		"pfinis": "PFINIS0011177",
+		"productName": "Voûte de four à 5 refroidisseurs",
+		"studyNumber": "10-060-001",
+		"clientName": "APERAM STAINLESS BELGIUM",
+		"factoryName": "ARCELORMITTAL CHATELET-STAINLESS",
+		"netWeight": "9775"
+	},
+	{
+		"pfinis": "PFINIS0017994",
+		"productName": "Creuset four a induction",
+		"studyNumber": "15-085-002 ",
+		"clientName": "ALUMETAL POLAND",
+		"factoryName": "ALUMETAL POLAND SP ZOO",
+		"netWeight": "1272"
+	},
+	{
+		"pfinis": "PFINIS0018012",
+		"productName": "Four BB 200",
+		"studyNumber": "14-215-001",
+		"clientName": "FAVI",
+		"factoryName": "FAVI SA",
+		"netWeight": "1953"
+	},
+	{
+		"pfinis": "PFINIS0016783",
+		"productName": "Nosering repère 4 - 24 pièces - GT",
+		"studyNumber": "10-009-004",
+		"clientName": "LIPETSK CEMENT",
+		"factoryName": "ZAO LIPETSK CEMENT",
+		"netWeight": "0"
+	},
+	{
+		"pfinis": "PFINIS0011332",
+		"productName": "Rabot de décrassage USS KOSICE",
+		"studyNumber": "12-178-001",
+		"clientName": "US STEEL KOSICE",
+		"factoryName": "U.S. STEEL KOSICE S.R.O.",
+		"netWeight": "115"
+	}
+]

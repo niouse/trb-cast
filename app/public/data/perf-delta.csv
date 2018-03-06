@@ -1,0 +1,10 @@
+batchNumber;targetPerf;conceteBatch;roofNumber;waterPercent;initialCalculatedWeight;waterWeight;initialMeasuredWeight;firstCycleWeight;secondCycleWeight;measuredPerf;remarks;clientRemark
+1605;150;161098;1;4.9;4100;156;3970;3865;3845;72;ciment coréen;Casse d'électrode - pièce fortement usée
+3695;150;161126;2;4.9;4100;156;4000;3905;3885;137;ciment coréen;pièce très usée - maxi 150 - arrêt cause we
+3693;150;161126;3;3.9;4100;156;4015;3880;3850;110;ciment coréen;Casse d'électrode - pièce fortement usée
+2418;150;162162-162363;4;4.5;;;;;;274;ciment coréen;RAS
+1616;150;162632;5;4.6;;;;;;196;ciment coréen;usure normale
+1446;150;163078;6;4.6;;;;;;160;ciment sécar;usure normale
+179;150;1542-1805;7;4.7;;;;;;60;ciment coréen;
+179;150;2201;8;4.7;;;;;;120;ciment sécar;
+3124;150;2504;9;4.5;;;;;;67;ciment sécar;

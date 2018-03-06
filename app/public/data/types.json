@@ -1,0 +1,32 @@
+[
+	{
+		"typeCode": "T0001",
+		"nameFr": "voutain",
+		"nameEn": "delat roof"
+	},
+	{
+		"typeCode": "T0002",
+		"nameFr": "nosering",
+		"nameEn": "nosering"
+	},
+	{
+		"typeCode": "T0003",
+		"nameFr": "rabot de décrassage",
+		"nameEn": "scrapper"
+	},
+	{
+		"typeCode": "T0004",
+		"nameFr": "creuset de poche",
+		"nameEn": "cup laddle"
+	},
+	{
+		"typeCode": "T0005",
+		"nameFr": "barrage de rigole mère",
+		"nameEn": "skimmer"
+	},
+	{
+		"typeCode": "T0006",
+		"nameFr": "autre",
+		"nameEn": "other"
+	}
+]

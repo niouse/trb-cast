@@ -1,0 +1,62 @@
+[
+	{
+		"factoryCode": "C0001",
+		"factoryName": "ARCELORMITTAL CHATELET-STAINLESS",
+		"adress": "Porte A1  Magasin Consommable AE  6200 CHATELET  Belgique",
+		"country": "Belgique"
+	},
+	{
+		"factoryCode": "C0002",
+		"factoryName": "ALUMETAL POLAND SP ZOO",
+		"adress": "UL ODLEWNIKOW 52  PL - 39432 GORZYCE  Pologne",
+		"country": "Pologne"
+	},
+	{
+		"factoryCode": "C0003",
+		"factoryName": "\"PJSC \"\"NLMK\"\"\"",
+		"adress": "PL .METALLURGOV 2  398040 LIPETSK  Russie",
+		"country": "Russie"
+	},
+	{
+		"factoryCode": "C0004",
+		"factoryName": "ZAO LIPETSK CEMENT",
+		"adress": "DISTRICT CEMZAVOD  398007 LIPETSK  Russie",
+		"country": "Russie"
+	},
+	{
+		"factoryCode": "C0005",
+		"factoryName": "OAO USINE KOSOGORSKIY",
+		"adress": "Station Yasnay Polyana  code station 213935, usine 3128  4 rue de Orlovskoye Chaussé  TULA, KOSSAYA GORA 300903  Russie",
+		"country": "Russie"
+	},
+	{
+		"factoryCode": "C0006",
+		"factoryName": "U.S. STEEL KOSICE S.R.O.",
+		"adress": "DP PUSH FURNACES  0183  SKLAD SPECIALNEHO MATERIALU  KOSICE 04454  Slovaquie",
+		"country": "Slovaquie"
+	},
+	{
+		"factoryCode": "C0007",
+		"factoryName": "US STEEL KOSICE S.R.O.",
+		"adress": "VSTUPNY AREAL US STEEL  DP BLAST FURNACE  0120-SKLAD ZIARUVSDOR. MATERIALU  KOSICE 04454  SVK",
+		"country": "Slovaquie"
+	},
+	{
+		"factoryCode": "C0008",
+		"factoryName": "US STEEL KOSICE",
+		"adress": "DP STEEL SHOP  0181 SKLAD MATERIALU KONVERTOROV  SK-04454 KOSICE  Slovaquie",
+		"country": "Slovaquie"
+	},
+	{
+		"factoryCode": "C0009",
+		"factoryName": "FAVI SA",
+		"adress": "14, RUE LOUIS DENEUX  80490 HALLENCOURT",
+		"country": "France"
+	},
+	{
+		"factoryCode": "C0010",
+		"factoryName": "APETRAM CHATELET",
+		"adress": "Porte A1  Magasin Consommable AE  6200 CHATELET  Belgique",
+		"country": "Belgique"
+	}
+]
